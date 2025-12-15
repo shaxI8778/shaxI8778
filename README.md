@@ -7,7 +7,8 @@
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=AmanovaShaxnoza.AmanovaShaxnoza&left_text=My%20Page%20Visitors)
 
-- 👩‍💻 All of my projects are available at <br> [https://your-portfolio-link.github.io](https://your-portfolio-link.github.io)
+- 👩‍💻 All of my projects are available at <br>
+  [https://your-portfolio-link.github.io](https://your-portfolio-link.github.io)
 
 - ⚡ Fun fact **I am creative and love coding 😄**
 
@@ -15,22 +16,24 @@
 
 <div align="left">
   <a href="https://github.com/your-github-username" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="47" height="35" alt="github logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="45" />
   </a>
   <a href="https://www.instagram.com/your-instagram" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" />
   </a>
   <a href="https://t.me/your-telegram" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="47" height="35" alt="telegram logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="45" />
   </a>
   <a href="mailto:your-email@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" />
   </a>
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🌸 Languages & Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vue,nodejs,php,git,github,figma,bootstrap,tailwind,mysql,postgres,linux,windows&perline=10)](https://skillicons.dev)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,figma,tailwind,bootstrap,git,github,canva,ps,ai&theme=light&perline=13" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
