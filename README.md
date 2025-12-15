@@ -1,4 +1,4 @@
-![logo](https://github.com/UzJaFaR-13/UzJaFaR-13/blob/main/photo_2025-12-15_11-59-03.jpg)
+![logo](https://github.com/shaxI8778/shaxI8778/blob/main/photo_2025-12-15_11-59-03.jpg)
 
 <h1 align="center">Hi 👋 I'm Amanova Shaxnoza Xolmamatovna</h1>
 <h3 align="center">A passionate Software Engineer from Uzbekistan</h3>
